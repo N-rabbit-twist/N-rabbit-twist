@@ -1,0 +1,4 @@
+print("Hello")
+
+New User name = input("What is your name?: ")
+print("Welcome" + " " + New User name)
